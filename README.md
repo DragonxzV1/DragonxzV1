@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://dragonxz.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Portfolio-dragonxz.com-blue?style=for-the-badge&logo=chrome&logoColor=white" /></a>
   <a href="mailto:your@email.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://discord.gg/yourinvite" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://discord.com/users/481211563735253022" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
