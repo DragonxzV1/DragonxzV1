@@ -1,4 +1,4 @@
-<h1 align="center"><img src='https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif' width='40'> Hey, I'm <span style="color:#00bfff">Dragonxz</span></h1>
+<h1 align="center">Hey, I'm <span style="color:#00bfff">Dragonxz</span></h1>
 
 <p align="center">
   <strong>💻 Full-Stack Developer | ☁️ Cloud & Infrastructure Specialist | 🤖 Automation & AI Enthusiast</strong>
